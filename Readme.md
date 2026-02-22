@@ -92,5 +92,5 @@ The backend handles the RAG logic and PDF processing.
 ---
 
 <p align="center">
-  Built with by the MindForge Team
+  Built with ❤️ by the MindForge Team
 </p>
