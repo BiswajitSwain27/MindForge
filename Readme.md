@@ -2,6 +2,9 @@
 
 **MindForge** is an AI-powered learning assistant that provides context-aware doubt resolution. It allows students to upload their syllabus and course materials, then interacts with them using a grounded RAG (Retrieval-Augmented Generation) system to ensure accurate, hallucination-free answers.
 
+##Original Repo
+link = https://github.com/SouravLenka/PS-HK19_MindForge_MindForge.git
+
 ## 📸 Chatbot Preview
 
 ![MindForge Dashboard](mindforge.jpg)
@@ -85,15 +88,6 @@ The backend handles the RAG logic and PDF processing.
    npm install
    npm run dev
    ```
-
----
-
-## 👥 Team Members
-
-- **Sourav Lenka** (23cse115) - _Team Leader_
-- **Binita Swain** (23cse071)
-- **Biswajit Swain** (23cse168)
-- **Shivam Patro** (23cse192)
 
 ---
 
